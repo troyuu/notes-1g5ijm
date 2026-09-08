@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://troyuu.github.io/notes-1g5ijm/sitemap.xml
